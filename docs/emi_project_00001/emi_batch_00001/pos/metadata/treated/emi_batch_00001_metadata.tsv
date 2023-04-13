@@ -1,0 +1,28 @@
+filename	sample_id	sample_type	species	plant_part
+20230323T141609Z_ED_blank1_20230324121613.mzML	blank1	BK	na	na
+20230323T141609Z_ED_blank1_20230324152037.mzML	blank1	BK	na	na
+20230323T141609Z_ED_blank1_20230325045643.mzML	blank1	BK	na	na
+20230323T141609Z_ED_QC_anacardia_20230324155859.mzML	QC_anacardia	QC	na	na
+20230323T141609Z_ED_QC_anacardia.mzML	QC_anacardia	QC	na	na
+20230323T141609Z_ED_STG-01-01C_20230324164641.mzML	STG-01-01C	sample	Anacardium occidentale	leaves
+20230323T141609Z_ED_STG-01-02C_20230324170235.mzML	STG-01-02C	sample	Anacardium occidentale	stem bark
+20230323T141609Z_ED_STG-01-03C_20230324171828.mzML	STG-01-03C	sample	Anacardium occidentale	root bark
+20230323T141609Z_ED_STG-01-04C.mzML	STG-01-04C	sample	Haemotostaphis barteri	leaves
+20230323T141609Z_ED_STG-01-05C.mzML	STG-01-05C	sample	Haemotostaphis barteri	stem bark
+20230323T141609Z_ED_STG-01-06C.mzML	STG-01-06C	sample	Haemotostaphis barteri	root bark
+20230323T141609Z_ED_STG-01-07C.mzML	STG-01-07C	sample	Lannea barteri	leaves
+20230323T141609Z_ED_STG-01-08C.mzML	STG-01-08C	sample	Lannea barteri	stem bark
+20230323T141609Z_ED_STG-01-09C.mzML	STG-01-09C	sample	Lannea barteri	root bark
+20230323T141609Z_ED_STG-01-10C.mzML	STG-01-10C	sample	Mangifera indica	leaves
+20230323T141609Z_ED_STG-01-11C.mzML	STG-01-11C	sample	Mangifera indica	stem bark
+20230323T141609Z_ED_STG-01-12C.mzML	STG-01-12C	sample	Mangifera indica	root bark
+20230323T141609Z_ED_STG-01-13C.mzML	STG-01-13C	sample	Pseudospondias microcarpa	leaves
+20230323T141609Z_ED_STG-01-14C.mzML	STG-01-14C	sample	Pseudospondias microcarpa	stem bark
+20230323T141609Z_ED_STG-01-15C.mzML	STG-01-15C	sample	Pseudospondias microcarpa	root bark
+20230323T141609Z_ED_STG-01-16C.mzML	STG-01-16C	sample	Pseudospondias microcarpa	fruits
+20230323T141609Z_ED_STG-01-17C.mzML	STG-01-17C	sample	Sclerocarya birrea	leaves
+20230323T141609Z_ED_STG-01-18C.mzML	STG-01-18C	sample	Sclerocarya birrea	stem bark
+20230323T141609Z_ED_STG-01-19C.mzML	STG-01-19C	sample	Sclerocarya birrea	root bark
+20230323T141609Z_ED_STG-01-20C.mzML	STG-01-20C	sample	Spondias dulcis	leaves
+20230323T141609Z_ED_STG-01-21C.mzML	STG-01-21C	sample	Spondias dulcis	stem bark
+20230323T141609Z_ED_STG-01-22C.mzML	STG-01-22C	sample	Spondias dulcis	root bark
