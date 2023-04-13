@@ -1,4 +1,4 @@
-filename	sample_id	sample_type	species	plant_part
+filename	sample_id	sample_type	ATTRIBUTE_species	ATTRIBUTE_plant_part
 20230323T141609Z_ED_blank1_20230324121613.mzML	blank1	BK	na	na
 20230323T141609Z_ED_blank1_20230324152037.mzML	blank1	BK	na	na
 20230323T141609Z_ED_blank1_20230325045643.mzML	blank1	BK	na	na
