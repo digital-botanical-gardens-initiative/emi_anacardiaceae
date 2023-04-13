@@ -1,0 +1,346 @@
+{
+  "context": "Rosids",
+  "governing_code": "ICN",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "anacardium occidentale",
+    "haemotostaphis barteri",
+    "lannea barteri",
+    "mangifera indica",
+    "pseudospondias microcarpa",
+    "sclerocarya birrea",
+    "spondias dulcis"
+  ],
+  "results": [
+    {
+      "matches": [],
+      "name": "na"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Anacardium occidentale",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "anacardium occidentale",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Anacardium occidentale",
+            "ott_id": 999426,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Acajuba occidentalis",
+              "Anacardium amilcarianum",
+              "Anacardium curatellaefolium",
+              "Anacardium kuhlmannianum",
+              "Anacardium microcarpum",
+              "Anacardium occidentale americanum",
+              "Anacardium othonianum",
+              "Anacardium rondonianum",
+              "Cassuvium pomiferum",
+              "Cassuvium reniforme",
+              "Cassuvium solitarium"
+            ],
+            "tax_sources": [
+              "ncbi:171929",
+              "gbif:5421368",
+              "irmng:11022124"
+            ],
+            "unique_name": "Anacardium occidentale"
+          }
+        }
+      ],
+      "name": "anacardium occidentale"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": true,
+          "is_synonym": false,
+          "matched_name": "Haematostaphis barteri",
+          "nomenclature_code": "ICN",
+          "score": 0.9545454382896423,
+          "search_string": "haemotostaphis barteri",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Haematostaphis barteri",
+            "ott_id": 6123907,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Haematostaphis pierreana",
+              "Haematostaphis purpurascens"
+            ],
+            "tax_sources": [
+              "gbif:3662214"
+            ],
+            "unique_name": "Haematostaphis barteri"
+          }
+        }
+      ],
+      "name": "haemotostaphis barteri"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Lannea barteri",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "lannea barteri",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Lannea barteri",
+            "ott_id": 6123927,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Calesiam barteri",
+              "Lannea egregia",
+              "Lannea kerstingii",
+              "Odina barteri"
+            ],
+            "tax_sources": [
+              "gbif:3661192"
+            ],
+            "unique_name": "Lannea barteri"
+          }
+        }
+      ],
+      "name": "lannea barteri"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Mangifera indica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "mangifera indica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Mangifera indica",
+            "ott_id": 807634,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Mangifera amba",
+              "Mangifera anisodora",
+              "Mangifera austro-yunnanensis",
+              "Mangifera domestica",
+              "Mangifera gladiata",
+              "Mangifera integrifolia",
+              "Mangifera kukula",
+              "Mangifera linnaei",
+              "Mangifera maritima",
+              "Mangifera mekongensis",
+              "Mangifera montana",
+              "Mangifera racemosa",
+              "Mangifera rostrata",
+              "Mangifera rubra",
+              "Mangifera sativa",
+              "Mangifera siamensis",
+              "Mangifera viridis"
+            ],
+            "tax_sources": [
+              "ncbi:29780",
+              "gbif:3190638",
+              "irmng:10201022"
+            ],
+            "unique_name": "Mangifera indica"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Mangifera indica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "mangifera indica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Mangifera foetida",
+            "ott_id": 422407,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Mangifera horsfieldii",
+              "Mangifera indica",
+              "Mangifera leschenaultii"
+            ],
+            "tax_sources": [
+              "ncbi:171935",
+              "gbif:3190640",
+              "irmng:11427926"
+            ],
+            "unique_name": "Mangifera foetida"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Mangifera indica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "mangifera indica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Mangifera sylvatica",
+            "ott_id": 847341,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Mangifera indica"
+            ],
+            "tax_sources": [
+              "ncbi:171944",
+              "gbif:3662046"
+            ],
+            "unique_name": "Mangifera sylvatica"
+          }
+        }
+      ],
+      "name": "mangifera indica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pseudospondias microcarpa",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pseudospondias microcarpa",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pseudospondias microcarpa",
+            "ott_id": 4728705,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Sorindeia obliquifoliolata",
+              "Spondias angolensis",
+              "Spondias microcarpa",
+              "Spondias zanzee"
+            ],
+            "tax_sources": [
+              "ncbi:1321805",
+              "gbif:3660956"
+            ],
+            "unique_name": "Pseudospondias microcarpa"
+          }
+        }
+      ],
+      "name": "pseudospondias microcarpa"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Sclerocarya birrea",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "sclerocarya birrea",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Sclerocarya birrea",
+            "ott_id": 456294,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:289766",
+              "gbif:7160810"
+            ],
+            "unique_name": "Sclerocarya birrea"
+          }
+        }
+      ],
+      "name": "sclerocarya birrea"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Spondias dulcis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "spondias dulcis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Spondias dulcis",
+            "ott_id": 988308,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Chrysomelon pomiferum",
+              "Cytheraea dulcis",
+              "Evia acida",
+              "Evia dulcis",
+              "Poupartia dulcis",
+              "Spondias acida",
+              "Spondias cythera",
+              "Spondias cytherea",
+              "Spondias fragrans",
+              "Spondias lutea",
+              "Spondias therebintoides"
+            ],
+            "tax_sources": [
+              "ncbi:43861",
+              "gbif:7554845",
+              "irmng:10195276"
+            ],
+            "unique_name": "Spondias dulcis"
+          }
+        }
+      ],
+      "name": "spondias dulcis"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.3draft1",
+    "version": "3.3",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.3"
+  },
+  "unambiguous_names": [
+    "anacardium occidentale",
+    "haemotostaphis barteri",
+    "lannea barteri",
+    "mangifera indica",
+    "pseudospondias microcarpa",
+    "sclerocarya birrea",
+    "spondias dulcis"
+  ],
+  "unmatched_names": [
+    "na"
+  ]
+}
